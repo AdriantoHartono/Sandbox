@@ -1,3 +1,6 @@
+# Adrianto Hartono
+# 14347930
+
 MINIMUM = 10
 
 password = input("Enter Password: ")
