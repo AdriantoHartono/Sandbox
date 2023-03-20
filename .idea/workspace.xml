@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3bb6e09-3c64-4043-b0ad-58a6405371d5" name="Changes" comment="Added test file" />
+    <list default="true" id="f3bb6e09-3c64-4043-b0ad-58a6405371d5" name="Changes" comment="Added new file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/broken_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/menus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/sales_bonus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/shop_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp1404practicals/prac_01/temperatures.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adriantohartono/PycharmProjects/Sandbox&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679292021712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new file">
+      <created>1679292554778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679292554778</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added new file">
+      <created>1679292566962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679292566962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified started file" />
     <MESSAGE value="Added test file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test file" />
+    <MESSAGE value="Added new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new file" />
   </component>
 </project>
